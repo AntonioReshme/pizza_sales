@@ -277,7 +277,9 @@ Power BI is used to create interactive and informative visualizations that showc
 
 ### Power BI Visualization
 
+
 ![Screenshot 2024-12-05 151454](https://github.com/user-attachments/assets/80e112bc-d00c-4a98-a122-fd7f9fa11c69)
+
 
 
 ![Screenshot 2024-12-05 151353](https://github.com/user-attachments/assets/e5cfb5be-0704-4dc2-b6f6-c1026afbfe53)
