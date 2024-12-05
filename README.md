@@ -265,3 +265,22 @@ group by 1
 order by 2 
 
 limit 5
+
+### 3. Power BI Visualization
+
+Power BI is used to create interactive and informative visualizations that showcase the insights gained from the data analysis. The visualizations may include:
+
+- Bar charts and pie charts displaying sales by product category.
+- Time series charts illustrating sales trends.
+- Geographic maps showing the distribution of restaurant locations.
+- Dashboards summarizing key performance indicators (KPIs).
+
+### Power BI Visualization
+
+![Screenshot 2024-12-05 151454](https://github.com/user-attachments/assets/80e112bc-d00c-4a98-a122-fd7f9fa11c69)
+
+
+![Screenshot 2024-12-05 151353](https://github.com/user-attachments/assets/e5cfb5be-0704-4dc2-b6f6-c1026afbfe53)
+
+
+
