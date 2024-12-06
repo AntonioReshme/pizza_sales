@@ -295,4 +295,8 @@ Based on the analysis and visualizations, actionable insights and recommendation
 
 The Pizza Sales Analysis Project effectively demonstrates the power of SQL and Power BI in analyzing, visualization and deriving insights from sales data. Through the creation of database tables and the execution of a variety of SQL queries, we have successfully extracted valuable information about the pizza restaurant chain's operations.
 
+## Author - Antonio Reshme
+
+This project is part of my portfolio, showcasing the SQL and Power BI skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+
 
